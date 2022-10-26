@@ -1,12 +1,7 @@
 navbar_entries:
-  - title: about
-    url: about
 
-  - title: blog
+  - title: Artikelen
     url: blog
-
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
@@ -38,7 +33,7 @@ project_entries:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: NEW
 
   - title: Cookie
@@ -54,17 +49,19 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/abelvos
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Twitter
+    url: https://twitter.com/abelvos
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Instagram
+    url: https://instagram.com/abelvos
 
-  - title: feed
-    url: feed.xml
+  - title: E-mail
+    url: mailto:post@abelvos.nl
+
+
 
 misc_entries:
   - title: this is an example vertical list
@@ -97,5 +94,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
